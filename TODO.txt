@@ -11,4 +11,8 @@ Teaching:
 EECS 542: link to the repo
 ROB 501: link to the repo
 
+tractor: <iframe src='//players.brightcove.net/1667951269001/r18TUB3N_default/index.html?videoId=2914951515001' allowfullscreen frameborder=0></iframe>
 
+saturn :<iframe src='//players.brightcove.net/1667951269001/r18TUB3N_default/index.html?videoId=2781467170001' allowfullscreen frameborder=0></iframe>
+
+ather surge: <iframe width="854" height="480" src="https://www.youtube.com/embed/pj6jHAShvAA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
