@@ -1,0 +1,14 @@
+add Robocon :
+https://timesofindia.indiatimes.com/city/pune/IIT-Madras-stops-VIT/articleshow/4242140.cms
+http://archive.indianexpress.com/news/iit-madras-win-national-robocon-2009/432676/
+https://www.youtube.com/watch?v=GXoXQSBnKiY
+
+CFI IIT Madras:
+http://cfi.iitm.ac.in/main/competitions/
+http://cfi.iitm.ac.in/main/clubs/ibot-club/
+
+Teaching:
+EECS 542: link to the repo
+ROB 501: link to the repo
+
+
